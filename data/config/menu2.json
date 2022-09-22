@@ -1,0 +1,77 @@
+{
+  "logo0": "desktop-classic.bmp",
+  "logo1": "server-network.bmp",
+  "logo2": "transfer-down.bmp",
+  "logo3": "transfer-up.bmp",
+  "logo4": "console.bmp",
+  "button0": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "1",
+      "0",
+      "0"
+    ]
+  },
+  "button1": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "2",
+      "0",
+      "0"
+    ]
+  },
+  "button2": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "3",
+      "0",
+      "0"
+    ]
+  },
+  "button3": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "4",
+      "0",
+      "0"
+    ]
+  },
+  "button4": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "5",
+      "0",
+      "0"
+    ]
+  }
+}

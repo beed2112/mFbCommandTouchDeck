@@ -1,0 +1,77 @@
+{
+  "logo0": "language-python.bmp",
+  "logo1": "bash.bmp",
+  "logo2": "language-php.bmp",
+  "logo3": "necklace.bmp",
+  "logo4": "language-ruby.bmp",
+  "button0": {
+    "latch": true,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "6",
+      "0",
+      "0"
+    ]
+  },
+  "button1": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "7",
+      "0",
+      "0"
+    ]
+  },
+  "button2": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "8",
+      "0",
+      "0"
+    ]
+  },
+  "button3": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "9",
+      "0",
+      "0"
+    ]
+  },
+  "button4": {
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [
+      "13",
+      "0",
+      "0"
+    ],
+    "valuearray": [
+      "10",
+      "0",
+      "0"
+    ]
+  }
+}

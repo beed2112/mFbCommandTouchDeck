@@ -1,0 +1,37 @@
+{
+  "logo0": "language-python.bmp",
+  "logo1": "server-network.bmp",
+  "logo2": "desktop-classic.bmp",
+  "logo3": "firefox.bmp",
+  "logo4": "firefox.bmp",
+  "button0":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "17", "0", "0" ] 
+  },
+  "button1":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "18", "0", "0" ] 
+  },
+  "button2":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "19", "0", "0" ] 
+  },
+  "button3":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0"],
+    "valuearray": [ "20", "0", "0" ] 
+  },
+  "button4":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "21", "0", "0" ] 
+  }
+}

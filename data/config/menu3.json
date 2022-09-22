@@ -1,0 +1,37 @@
+{
+  "logo0": "roman-numeral-1.bmp",
+  "logo1": "file-replace-outline.bmp",
+  "logo2": "file-search.bmp",
+  "logo3": "tea.bmp",
+  "logo4": "fingerprint.bmp",
+  "button0":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "12", "0", "0" ] 
+  },
+  "button1":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "13", "0", "0" ] 
+  },
+  "button2":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "14", "0", "0" ] 
+  },
+  "button3":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0"],
+    "valuearray": [ "15", "0", "0" ] 
+  },
+  "button4":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "13", "0", "0" ],
+    "valuearray": [ "16", "0", "0" ] 
+  }
+}
