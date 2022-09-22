@@ -17,7 +17,7 @@ The User Guide will help you with installing and configuring if you want to buil
 - AsyncTCP (latest version) download from: https://github.com/me-no-dev/AsyncTCP
 - ArduinoJson (tested with version 6.17.3), available through Library Manager
 
-# will need to to set up  ESp32 Sketch Data Upload.
+# will need to set up ESp32 Sketch Data Upload.
 
 have only been able to get the arduino ide working and used this link.
 
@@ -26,8 +26,8 @@ https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
 
 
 
-UserActions.h file where user actions are defined
-Action.h   modify case structure to have a case for max defined useractions
-data/index.htm to use configuration web page - modify subitems array to have entry defined useraction
+- UserActions.h file where user actions are defined
+- Action.h   modify case structure to have a case for max defined useractions
+- data/index.htm to use configuration web page - modify subitems array to have entry of every defined useraction
 
 
